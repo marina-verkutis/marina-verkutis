@@ -9,6 +9,6 @@
 		<img src="https://img.shields.io/badge/ВКонтакте-blue?style=flat-square&logo=Vkn&logoColor=white" alt="ВКонтакте"/>
 	</a>
 	<a href="https://t.me/molliTy">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+		<img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
