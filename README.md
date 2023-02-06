@@ -3,5 +3,5 @@
 	<h3>Рrogrammer and a programming teacher</h3>
 </div>
 <a href="vk-url">
-	<img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vk"/>
+	<img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vkn&logoColor=white" alt="Vk"/>
 </a>
