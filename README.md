@@ -5,7 +5,6 @@
 
 
 <div id="socials" align="center">
-	
 	<a href="https://vk.com/marinaverkutis">
 		<img src="https://img.shields.io/badge/ВКонтакте-blue?style=flat-square&logo=Vkn&logoColor=white" alt="ВКонтакте"/>
 	</a>
