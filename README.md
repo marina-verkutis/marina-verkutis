@@ -21,3 +21,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-verkutis&layout=compact&theme=radical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marina-verkutis&repo=noemi-blog&show_owner=true&theme=radical)](https://github.com/marina-verkutis/noemi-blog)
