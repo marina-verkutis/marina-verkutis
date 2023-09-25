@@ -1,18 +1,19 @@
 <div id="header" align="center">
+	<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200"/> <br>
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=61A7FF&center=true&vCenter=true&width=600&height=40&lines=Hi+there%2C+I'm+Marina+Verkutis!" alt="Typing SVG" /></a>
 	<h4>Welcome to my page, where code meets creativity to bring digital visions to life!</h4>
+	<div id="badges">
+  		<a href="https://www.linkedin.com/in/marina-verkutis">
+    			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  		</a>
+  		<a href="https://youtube.com/@doit4493?si=kcc9tvU8UTan_jAV">
+    			<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  		</a>
+  		<a href="https://t.me/molliTy">
+    			<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  		</a>
+	</div>	
 </div>
-
-
-<div id="socials" align="center">
-	<a href="https://vk.com/marinaverkutis">
-		<img src="https://img.shields.io/badge/ВКонтакте-blue?style=flat-square&logo=Vkn&logoColor=white" alt="ВКонтакте"/>
-	</a>
-	<a href="https://t.me/molliTy">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
-</div>
-
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
