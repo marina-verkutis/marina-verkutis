@@ -21,4 +21,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-verkutis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-verkutis&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-verkutis&theme=tokyonight)
