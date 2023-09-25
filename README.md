@@ -1,7 +1,7 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200"/> <br>
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=61A7FF&center=true&vCenter=true&width=600&height=40&lines=Hi+there%2C+I'm+Marina+Verkutis!" alt="Typing SVG" /></a>
-	<h4>Welcome to my page, where code meets creativity to bring digital visions to life!</h4>
+	<p>Welcome to my page, where code meets creativity to bring digital visions to life!</p>
 	<div id="badges">
   		<a href="https://www.linkedin.com/in/marina-verkutis">
     			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
