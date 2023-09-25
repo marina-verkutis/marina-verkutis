@@ -16,9 +16,13 @@
 	<img src="https://komarev.com/ghpvc/?username=marina-verkutis&style=flat-square&color=blue" alt=""/>
 </div>
 
-	
-
-
+### :woman_technologist: About Me :
+- :fire: Passionate about web design, web development, and programming as a whole.
+- :books: Constantly expanding my knowledge through programming courses during my free time.
+- :mortar_board: Dedicated to promoting IT education and teaching programming to others.
+- :star2: Enthusiastic about creating visually appealing and functional web experiences.
+- :pencil: Committed to staying up-to-date with the latest trends and technologies in frontend development.
+- :surfer: Striving to bring creativity and innovation to every project I undertake.
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
