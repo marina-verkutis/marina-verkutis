@@ -20,5 +20,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-verkutis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-verkutis&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-verkutis&layout=compact&theme=radical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
