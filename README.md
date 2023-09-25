@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200"/> <br>
+	<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200"/> <br/>
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=61A7FF&center=true&vCenter=true&width=600&height=40&lines=Hi+there%2C+I'm+Marina+Verkutis!" alt="Typing SVG" /></a>
 	<p>Welcome to my page, where code meets creativity to bring digital visions to life!</p>
 	<div id="badges">
@@ -15,6 +15,10 @@
 	</div>	
 	<img src="https://komarev.com/ghpvc/?username=marina-verkutis&style=flat-square&color=blue" alt=""/>
 </div>
+
+	
+
+
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
