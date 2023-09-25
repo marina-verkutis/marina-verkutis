@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=61A7FF&center=true&vCenter=true&width=600&height=40&lines=Hi+there%2C+I'm+Marina+Verkutis!" alt="Typing SVG" /></a>
-	<p>Welcome to my page, where code meets creativity to bring digital visions to life!</p>
+	<h4>Welcome to my page, where code meets creativity to bring digital visions to life!</h4>
 </div>
 
 
