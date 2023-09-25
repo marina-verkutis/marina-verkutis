@@ -32,10 +32,10 @@
 
 ### :fire: My Stats :
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marina-verkutis&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=marina-verkutis&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marina-verkutis&layout=compact&&theme=transparent&langs_count=20&card_width=320&hide=pascal,c,c%2B%2B" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marina-verkutis&layout=compact&&theme=transparent&langs_count=20&card_width=320&hide=pascal,c,c%2B%2B" />
 </a>
 
 ### Repositories
