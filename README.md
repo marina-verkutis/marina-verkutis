@@ -20,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-verkutis&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
+### Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marina-verkutis&repo=noemi-blog&show_owner=true&theme=dracula)](https://github.com/marina-verkutis/noemi-blog)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-verkutis&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
