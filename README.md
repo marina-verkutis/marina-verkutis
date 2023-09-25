@@ -24,13 +24,19 @@
 - :pencil: Committed to staying up-to-date with the latest trends and technologies in frontend development.
 - :surfer: Striving to bring creativity and innovation to every project I undertake.
 
-### Languages and tools
+### :hammer_and_wrench: Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 
-### Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marina-verkutis&repo=noemi-blog&show_owner=true&theme=dracula)](https://github.com/marina-verkutis/noemi-blog)
+### :fire: My Stats :
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marina-verkutis&show_icons=true&theme=transparent&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marina-verkutis&layout=compact&&theme=transparent&langs_count=20&card_width=320&hide=pascal,c,c%2B%2B" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-verkutis&layout=compact&theme=dracula&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+### Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marina-verkutis&repo=noemi-blog&show_owner=true&theme=transparent)](https://github.com/marina-verkutis/noemi-blog)
