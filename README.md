@@ -26,13 +26,13 @@
 
 ### :mortar_board: Education :
 
-> 2021-2023 <br>
-> **A.N. Kosygin Russian State University (Technologies, Design, Art)** <br>
-> Master's Degree in Information Systems and Technologies
+2021-2023 <br>
+**A.N. Kosygin Russian State University (Technologies, Design, Art)** <br>
+Master's Degree in Information Systems and Technologies
 
-> 2017-2021 <br>
-> **A.N. Kosygin Russian State University (Technologies, Design, Art)** <br>
-> Bachelor's Degree in Computer Science and Computer Engineering (CAD)
+2017-2021 <br>
+**A.N. Kosygin Russian State University (Technologies, Design, Art)** <br>
+Bachelor's Degree in Computer Science and Computer Engineering (CAD)
 
 ### :hammer_and_wrench: Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
