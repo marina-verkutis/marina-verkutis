@@ -49,5 +49,5 @@ Bachelor's Degree in Computer Science and Computer Engineering (CAD)
 </a>
 
 ### :paperclip: Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marina-verkutis&repo=noemi-blog&show_owner=true&theme=transparent)](https://github.com/marina-verkutis/noemi-blog) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marina-verkutis&repo=noemi-blog&show_owner=true&theme=transparent)](https://github.com/marina-verkutis/noemi-blog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marina-verkutis&repo=astrum-test&show_owner=true&theme=transparent)](https://github.com/marina-verkutis/astrum-test)
