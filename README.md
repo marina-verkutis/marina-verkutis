@@ -47,6 +47,7 @@ Bachelor's Degree in Computer Science and Computer Engineering (CAD)
 <img src="https://github.com/marina-verkutis/marina-verkutis/assets/124586787/428b57a8-5ddd-4a07-a07f-859a7d9b7bff" title="bem" alt="bem" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/marina-verkutis/marina-verkutis/assets/124586787/8379f8d0-2f49-4673-ba77-6bc8f33f431e" title="Guilp" alt="Guilp" width="40" height="40"/>&nbsp;
 <img src="https://github.com/marina-verkutis/marina-verkutis/assets/124586787/37f3bed5-203a-4858-9fa1-d4471eae88a6" title="Pug" alt="Pug" width="45" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
