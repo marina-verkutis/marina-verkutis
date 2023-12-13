@@ -17,7 +17,7 @@
 	<img src="https://komarev.com/ghpvc/?username=marina-verkutis&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me 
 - :fire: Passionate about web design, web development, and programming as a whole.
 - :books: Constantly expanding my knowledge through programming courses during my free time.
 - :mortar_board: Dedicated to promoting IT education and teaching programming to others.
@@ -25,7 +25,7 @@
 - :pencil: Committed to staying up-to-date with the latest trends and technologies in frontend development.
 - :surfer: Striving to bring creativity and innovation to every project I undertake.
 
-### :mortar_board: Education :
+### :mortar_board: Education 
 
 2021-2023 <br>
 **A.N. Kosygin Russian State University (Technologies, Design, Art)** <br>
