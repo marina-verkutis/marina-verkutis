@@ -53,7 +53,7 @@ Bachelor's Degree in Computer Science and Computer Engineering (CAD)
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
 
-### :fire: My Stats :
+### :fire: My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marina-verkutis&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
