@@ -42,7 +42,12 @@ Bachelor's Degree in Computer Science and Computer Engineering (CAD)
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Java Script" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Type Script" alt="Type Script" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Next JS" alt="Next JS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git Lab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/marina-verkutis/marina-verkutis/assets/124586787/428b57a8-5ddd-4a07-a07f-859a7d9b7bff" title="bem" alt="bem" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/marina-verkutis/marina-verkutis/assets/124586787/8379f8d0-2f49-4673-ba77-6bc8f33f431e" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
@@ -52,6 +57,7 @@ Bachelor's Degree in Computer Science and Computer Engineering (CAD)
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+
 
 ### :fire: My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
